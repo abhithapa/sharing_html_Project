@@ -1,0 +1,178 @@
+/*.container-fluid{*/
+/*    margin: 0 !important;*/
+/*}*/
+
+/*.navbar{*/
+/*    width: 100% !important;*/
+/*}*/
+.navbar h1 a{
+    font-size: 40px;
+}
+
+ul .active{
+    color: #1fa12e !important;
+}
+.nav-link{
+    font-weight: bold;
+    margin: 0 5px !important;
+}
+.nav-link:hover{
+    color: #1fa12e !important;
+    text-decoration: #1fa12e underline;
+    transition: 9ms;
+}
+.nav-item:hover{
+    color: #1fa12e !important;
+}
+
+.btn-style{
+    background-color: #1fa12e;
+    color: white;
+    border: 2px solid #1fa12e;
+    border-radius: 25px;
+}
+.btn-style:hover{
+    background-color: white !important;
+    color: #1fa12e;
+}
+.av{
+    font-size: 30px;
+    margin: 0 5px !important;
+    color: white !important;
+
+}
+
+.container .row ul li{
+    list-style: none;
+}
+
+p{
+    color: #999;
+    line-height: 25px;
+}
+h3,h4{
+    color: #fff;
+    font-size: 32px;
+}
+h1,h2{
+    color: #fff;
+    font-size: 32px;
+}
+.footer-top {
+    background: #111;
+    padding: 80px 0;
+}
+
+.avc{
+    font-size: large;
+    color: #6c757d;
+}
+.abc:hover{
+    color: white !important;
+}
+.ab{
+    color: white;
+    margin: 0 10px;
+    width: 40px;
+}
+.bc{
+    text-align: center;
+    height: 60px;
+}
+.bcd{
+    color: #0dcaf0;
+    margin: 0 10px;
+}
+.bcd:hover{
+    color: white !important;
+    text-decoration: none;
+}
+.slide{
+    float: left;
+}
+/*3rd part*/
+.third{
+    margin: 40px ;
+}
+.third h5{
+    color: #1fa12e;
+}
+.third h6{
+    font-size: 40px;
+    font-weight: bold;
+}
+.third p{
+    color: #6c757d;
+    line-height: 25px;
+    margin: 16px 0;
+}
+.btn-read-more{
+    background-color: #1fa12e;
+    color: white;
+    border: 2px solid #1fa12e;
+    border-radius: 25px
+}
+.btn-read-more:hover{
+    background-color: white !important;
+    color: #1fa12e;
+}
+.third img{
+    margin: 40px 10px;
+    max-width: 95%;
+    cursor: pointer;
+}
+.pad{
+    padding: 0;
+}
+.left{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+.right{
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.bb{
+    font-weight: bold;
+    color: black;
+}
+.fifth img{
+    max-width: 90%;
+    border-radius: 10px;
+}
+.sixth{
+    background-color: beige;
+}
+.sixth h5{
+    margin: 20px 10px;
+    color: #1fa12e;
+    text-align: center;
+}
+.sixth h6{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+.seventh img{
+    border-radius: 50% !important;
+    margin: 0 10px;
+}
+.seventh .col-md-4:before{
+    content: '❛❛';
+    margin: 5px 5px;
+    font-size: 70px;
+    color: #c69500;
+}
+
+
